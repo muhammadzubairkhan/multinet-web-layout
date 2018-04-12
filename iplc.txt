@@ -1,0 +1,13 @@
+<h2 class="heading-multinet">Connectivity</h2>
+<p>Our network enables us to serve the Service Provider market segment, as well as energize our own nationwide IP/MPLS network, which targets growing domestic enterprise market demands.</p>
+<h2 class="heading-multinet">Multinet delivers superior and scalable speeds up to 10 Gbps with services delivered through FTTP technology.</h2>
+<p>The Multinet network helps customers to operate their enterprise networks through various flavors of high speed interconnectivity options, high capacity data storage facilities and efficient Internet bandwidth solutions. Multinet is a carrier’s carrier that offers a variety of services to fulfill diversified customer needs.</p>
+<ul class="body-list">
+<li>IPLC</li>
+<li>DPLC</li>
+<li>IP Transit</li>
+<li>Metronet</li>
+<li>MPLS</li>
+<li>Lambda</li>
+<li>Dark Fiber</li>
+</ul>
